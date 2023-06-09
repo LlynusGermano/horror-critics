@@ -39,3 +39,40 @@ img:hover{
     color: rgb(46, 57, 153);
     font-size: 400%;
 }
+
+.h3_panico{
+    margin-right: 5%;
+}
+.h3_panico:hover{
+   transform: scale(130%);
+}
+
+.h3_sexta{
+    font-size: 80%;
+    margin-left: 2%;
+}
+.h3_sexta:hover{
+   transform: scale(130%);
+}
+
+.h3_halloween{
+    font-size: 80%;
+    margin-right: 1%;
+}
+.h3_halloween:hover{
+   transform: scale(130%);
+}
+
+.h3_pesadelo{
+    margin-left: 2%;
+}
+.h3_pesadelo:hover{
+   transform: scale(130%);
+}
+
+.h3_invocacao{
+    margin-right: 5%;
+}
+.h3_invocacao:hover{
+   transform: scale(130%);
+}
